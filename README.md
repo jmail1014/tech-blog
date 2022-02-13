@@ -15,7 +15,7 @@ This is a Model-veiw-controller style tech blog that was built with full stack t
 - Application cookies with express-session
 
 ## Challenge notes:
-I was unable to deploy the application to Heroku successfully. The application runs on locally without the posts. 
+I was unable to deploy the application to Heroku successfully. The application runs locally but without the posts. 
 
 ### Deployed Heroku Application
 https://pacific-hollows-84087.herokuapp.com/
